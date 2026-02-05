@@ -44,7 +44,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 
 ---
 
-### 🤖 Hobbies
+### 💡Hobbies
 
 <p align="left">
   <img title="Investimentos" width="35" src="https://api.iconify.design/noto:chart-increasing.svg" />&nbsp;
