@@ -11,7 +11,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 </a>
 
 <a href="mailto:contatojardane.jl@gmail.com" title="meu e-mail 📧">
-  <img src="https://img.shields.io/badge/GMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" title="Me siga no LinkedIn 🚀">
