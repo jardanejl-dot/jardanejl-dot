@@ -16,12 +16,12 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <!-- LinkedIn (mantido como você pediu) -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <!-- GitHub Followers (corrigido para seu usuário) -->
+  <!-- GitHub Followers (seu usuário) -->
   <a href="https://github.com/jardanejl-dot?tab=followers">
     <img 
       alt="followers" 
@@ -29,7 +29,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
       src="https://custom-icon-badges.demolab.com/github/followers/jardanejl-dot?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 
-  <!-- GitHub Profile Views (corrigido para seu usuário) -->
+  <!-- GitHub Profile Views (seu usuário) -->
   <a href="https://github.com/jardanejl-dot">
     <img 
       alt="views" 
