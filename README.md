@@ -19,11 +19,11 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 </a>
 
 <a href="https://github.com/jardanejl-dot?tab=followers" title="Me siga no GitHub 💞">
-  <img src="https://img.shields.io/github/followers/jardanejl-dot?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=2ECC71&labelColor=2ECC71">
+  <img src="https://img.shields.io/github/followers/jardanejl-dot?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=2ea44f&labelColor=2ea44f">
 </a>
 
 <a href="https://github.com/jardanejl-dot" title="Visualiza e me segue aí 👀😅">
-  <img src="https://img.shields.io/badge/Profile%20Views-84-F1C40F?style=for-the-badge&labelColor=F1C40F&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-84-d4a017?style=for-the-badge&labelColor=d4a017&logo=github&logoColor=white">
 </a>
 
 
@@ -32,7 +32,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 
 ---
 
-### 🤖 Tools monitoring and automation
+### ⚙️ Tools monitoring and automation 🔧
 
 <p align="left">
 <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" />
@@ -49,8 +49,9 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 <p align="left">
   <img title="Investimentos" width="35" src="https://api.iconify.design/noto:chart-increasing.svg" />&nbsp;
   <img title="Yoga" width="35" src="https://api.iconify.design/noto:person-in-lotus-position.svg" />&nbsp;
-  <img title="Pilates" width="35" src="https://api.iconify.design/noto:person-stretching.svg" />&nbsp;
+  <img title="Pilates" width="35" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f938.svg" />&nbsp;
 </p>
+
 ---
 
 ### 📊 Estatísticas
