@@ -4,40 +4,30 @@
 
 Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou Bacharela em Sistemas de Informação e Pós Graduada em Ciência de Dados e Big Data. Atualmente, foco o meu desenvolvimento em tecnologias emergentes e sou estudante com ênfase em Agentes de IA, visando aplicar soluções inteligentes para automatizar tarefas do dia a dia com eficiência organizacional em ambientes dinâmicos e desafiadores. Sou apaixonada por tecnologia, psicologia e mercado de investimentos. 
 
-<div>
+<p align="left">
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/jardane_lima/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<a href="https://www.instagram.com/jardane_lima/" title="Me siga 🤩">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-  <!-- Gmail -->
-  <a href="mailto:contatojardane.jl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="mailto:contatojardane.jl@gmail.com" title="meu e-mail 📧">
+  <img src="https://img.shields.io/badge/GMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" title="Me siga no LinkedIn 🚀">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <!-- GitHub Followers (seu usuário) -->
-  <a href="https://github.com/jardanejl-dot?tab=followers">
-    <img 
-      alt="followers" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/jardanejl-dot?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
+<a href="https://github.com/jardanejl-dot?tab=followers" title=" Me siga no GitHub 💞">
+  <img src="https://img.shields.io/github/followers/jardanejl-dot?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=2ECC71">
+</a>
 
-  <!-- GitHub Profile Views (seu usuário) -->
-  <a href="https://github.com/jardanejl-dot">
-    <img 
-      alt="views" 
-      title="Visualizações do perfil" 
-      src="https://komarev.com/ghpvc/?username=jardanejl-dot&style=for-the-badge&color=blue"/>
-  </a>
+<a href="https://github.com/jardanejl-dot" title="Visualiza e me segue...não custa nada 🤝">
+  <img src="https://komarev.com/ghpvc/?username=jardanejl-dot&style=for-the-badge&label=PROFILE+VIEWS&color=F1C40F">
+</a>
 
-</div>
+</p>
+
 
 ---
 
