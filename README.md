@@ -10,7 +10,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:contatojardane.jl@gmail.com" title="meu e-mail 📧">
+<a href="mailto:contatojardane.jl@gmail.com" title="meu gmail 📧">
   <img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
