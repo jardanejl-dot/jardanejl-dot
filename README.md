@@ -39,7 +39,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 <img title="Grafana" alt="Grafana" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
 <img title="MikroTik" alt="MikroTik" width="32" src="https://cdn.simpleicons.org/mikrotik/FFFFFF" />&nbsp;
 <img title="n8n + Agentes de IA" alt="n8n" width="32" src="https://cdn.simpleicons.org/n8n/EF5A29" />&nbsp;
-<img title="Monitoramento NOC" alt="NOC" width="32" src="https://cdn.simpleicons.org/datadog/632CA6" />
+<img title="Monitoramento NOC" alt="Monitor NOC" width="32" src="https://api.iconify.design/ic:baseline-desktop-windows.svg?color=%230078D7" />
 </p>
 
 ---
@@ -47,13 +47,11 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 ### 🤖 Hobbies
 
 <p align="left">
-<img title="Renda Fixa" alt="Renda Fixa" width="32" src="https://cdn.simpleicons.org/googlesheets/34A853" />&nbsp;
-<img title="Bolsa de Valores" alt="Bolsa de Valores" width="32" src="https://cdn.simpleicons.org/yahoo/6001D2" />&nbsp;
-<img title="Yoga" alt="Yoga" width="32" src="https://cdn.simpleicons.org/openyoga/FFFFFF" />&nbsp;
-<img title="Pilates" alt="Pilates" width="32" src="https://cdn.simpleicons.org/fitbit/00B0B9" />&nbsp;
-
+  <img title="Investimentos" width="32" src="https://cdn.simpleicons.org/googlesheets/34A853" />&nbsp;
+  <img title="Bolsa de Valores" alt="Bolsa de Valores" width="40" src="https://img.shields.io/badge/-Bolsa%20de%20Valores-131722?style=flat-square&logo=tradingview&logoColor=white" />&nbsp;
+  <img title="Yoga" width="32" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f9d8.svg" />&nbsp;
+  <img title="Pilates" width="32" src="https://cdn.simpleicons.org/fitbit/00B0B9" />&nbsp;
 </p>
-
 ---
 
 ### 📊 Estatísticas
