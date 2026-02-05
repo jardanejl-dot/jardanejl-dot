@@ -57,6 +57,10 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 ### 📊 Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jardanejl-dot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardanejl-dot&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-Dashboards-orange?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-Networking-blue?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Automation-ef5a29?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/NOC-24x7_Monitoring-green?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
+
