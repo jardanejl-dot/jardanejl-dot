@@ -61,6 +61,6 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
   <img src="https://img.shields.io/badge/Grafana-Dashboards-orange?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/MikroTik-Networking-blue?style=for-the-badge&logo=mikrotik&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-Automation-ef5a29?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/NOC-24x7_Monitoring-green?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/NOC_Monitoring-green?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
