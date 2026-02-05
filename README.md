@@ -18,12 +18,12 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/jardanejl-dot?tab=followers" title=" Me siga no GitHub 💞">
-  <img src="https://img.shields.io/github/followers/jardanejl-dot?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=2ECC71">
+<a href="https://github.com/jardanejl-dot?tab=followers" title="Me siga no GitHub 💞">
+  <img src="https://img.shields.io/github/followers/jardanejl-dot?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=2ECC71&labelColor=2ECC71">
 </a>
 
-<a href="https://github.com/jardanejl-dot" title="Visualiza e me segue...não custa nada 🤝">
-  <img src="https://komarev.com/ghpvc/?username=jardanejl-dot&style=for-the-badge&label=PROFILE+VIEWS&color=F1C40F">
+<a href="https://github.com/jardanejl-dot" title="Visualiza e me segue... não custa nada 🤝">
+  <img src="https://komarev.com/ghpvc/?username=jardanejl-dot&style=for-the-badge&label=PROFILE+VIEWS&color=F1C40F&labelColor=F1C40F">
 </a>
 
 </p>
