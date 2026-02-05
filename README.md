@@ -47,10 +47,9 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 ### 🤖 Hobbies
 
 <p align="left">
-  <img title="Investimentos" width="32" src="https://cdn.simpleicons.org/googlesheets/34A853" />&nbsp;
-  <img title="Bolsa de Valores" alt="Bolsa de Valores" width="40" src="https://img.shields.io/badge/-Bolsa%20de%20Valores-131722?style=flat-square&logo=tradingview&logoColor=white" />&nbsp;
-  <img title="Yoga" width="32" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f9d8.svg" />&nbsp;
-  <img title="Pilates" width="32" src="https://cdn.simpleicons.org/fitbit/00B0B9" />&nbsp;
+  <img title="Investimentos" width="35" src="https://api.iconify.design/noto:chart-increasing.svg" />&nbsp;
+  <img title="Yoga" width="35" src="https://api.iconify.design/noto:person-in-lotus-position.svg" />&nbsp;
+  <img title="Pilates" width="35" src="https://api.iconify.design/noto:person-stretching.svg" />&nbsp;
 </p>
 ---
 
