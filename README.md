@@ -4,20 +4,44 @@
 
 Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou Bacharela em Sistemas de Informação e Pós Graduada em Ciência de Dados e Big Data. Atualmente, foco o meu desenvolvimento em tecnologias emergentes e sou estudante com ênfase em Agentes de IA, visando aplicar soluções inteligentes para automatizar tarefas do dia a dia com eficiência organizacional em ambientes dinâmicos e desafiadores. Sou apaixonada por tecnologia, psicologia e mercado de investimentos. 
 
-<div> 
- 
-  <a href="https://instagram.com/jardanejl-dot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatojardane.jl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/jardanejl-dot/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+<div>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/jardane_lima/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:contatojardane.jl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <!-- LinkedIn (mantido como você pediu) -->
+  <a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <!-- GitHub Followers (corrigido para seu usuário) -->
+  <a href="https://github.com/jardanejl-dot?tab=followers">
+    <img 
+      alt="followers" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/jardanejl-dot?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+
+  <!-- GitHub Profile Views (corrigido para seu usuário) -->
+  <a href="https://github.com/jardanejl-dot">
+    <img 
+      alt="views" 
+      title="Visualizações do perfil" 
+      src="https://komarev.com/ghpvc/?username=jardanejl-dot&style=for-the-badge&color=blue"/>
+  </a>
+
 </div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 
 <img 
     align="left" 
