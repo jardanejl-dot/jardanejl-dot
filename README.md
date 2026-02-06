@@ -35,7 +35,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 ### ⚙️ Tools monitoring and automation 🔧
 
 <p align="left">
-<img title="Zabbix" alt="Zabbix" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
+<img title="Zabbix" alt="Zabbix" width="70" src=".github/workflows/zb.png" />&nbsp;
 <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img title="Grafana" alt="Grafana" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
 <img title="MikroTik" alt="MikroTik" width="32" src="https://cdn.simpleicons.org/mikrotik/FFFFFF" />&nbsp;
