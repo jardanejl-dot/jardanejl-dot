@@ -56,7 +56,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 ---
 
-### 📊 Projetos que atuei
+### <img title="Yoga" width="35" src=".github/workflows/projeto.png" />&nbsp; Projetos que atuei
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
