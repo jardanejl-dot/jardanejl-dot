@@ -39,7 +39,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 <img title="Grafana" alt="Grafana" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
 <img title="MikroTik" alt="MikroTik" width="32" src="https://cdn.simpleicons.org/mikrotik/FFFFFF" />&nbsp;
 <img title="n8n + Agentes de IA" alt="n8n" width="32" src="https://cdn.simpleicons.org/n8n/EF5A29" />&nbsp;
-<img title="Monitoramento NOC" alt="Monitor NOC" width="32" src="https://api.iconify.design/ic:baseline-desktop-windows.svg?color=%230078D7" />
+<img title="Monitoramento NOC" alt="Monitor NOC" width="32" src=".github/workflows/monitor.png" />
 </p>
 
 ---
