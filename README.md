@@ -32,7 +32,7 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
 
 ---
 
-### ⚙️ Tools monitoring and automation 🔧
+### ⚙️ Tools Monitoring and Automation 🔧
 
 <p align="left">
 <img title="Zabbix" alt="Zabbix" width="35" src=".github/workflows/zb1.png" />&nbsp;
