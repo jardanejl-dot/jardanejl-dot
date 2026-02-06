@@ -64,3 +64,5 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
   <img src="https://img.shields.io/badge/NOC_Monitoring-green?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
+
+![Snake animation](https://raw.githubusercontent.com/jardanejl-dot/output/github-contribution-grid-snake.svg)
