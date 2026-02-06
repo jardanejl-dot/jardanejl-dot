@@ -2,7 +2,9 @@
 
 **`Analista de Sistemas | HelpDesk | Redes Telecomunicações | Triggers Zabbix | Dashboards Grafana | Mikrotik | NOC`**
 
-Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou Bacharela em Sistemas de Informação e Pós Graduada em Ciência de Dados e Big Data. Atualmente, foco o meu desenvolvimento em tecnologias emergentes e sou estudante com ênfase em Agentes de IA, visando aplicar soluções inteligentes para automatizar tarefas do dia a dia com eficiência organizacional em ambientes dinâmicos e desafiadores. Sou apaixonada por tecnologia, psicologia e mercado de investimentos. 
+Profissional de Tecnologia da Informação, com experiência em Help Desk e Redes de Telecomunicações. Atuação no monitoramento proativo de ambientes tecnológicos utilizando Zabbix, Grafana e The Dude, além da configuração de ativos Mikrotik, visando estabilidade e alta disponibilidade operacional.
+
+Minha trajetória integra competências técnicas e administrativas, com atuação em processos licitatórios, gestão de contratos e documentação técnica no contexto da administração pública. Atualmente, direciono meu desenvolvimento para tecnologias emergentes, com foco no estudo e aplicação de Agentes de IA e automação inteligente de processos, buscando soluções eficientes para ambientes dinâmicos e desafiadores. 
 
 <p align="left">
 
@@ -72,4 +74,6 @@ Tenho 35 anos e sou natural do Acre e atualmente resido em Santa Catarina. Sou B
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
