@@ -56,15 +56,13 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 ---
 
-### 📊 Estatísticas
+### 📊 Projetos que atuei
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-Dashboards-orange?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-Networking-blue?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Automation-ef5a29?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/NOC_Monitoring-green?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![NOC](https://img.shields.io/badge/NOC_Monitoring-0A66C2?style=flat)
 
 
 #
