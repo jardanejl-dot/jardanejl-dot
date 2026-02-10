@@ -50,7 +50,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 ---
 
-### <img title="Em construção" width="30" src=".github/workflows/task-management-removebg-preview.png" /> Projetos Desenvolvidos 
+### <img title="Em construção" width="35" src=".github/workflows/task-management-removebg-preview.png" /> Projetos Desenvolvidos 
 
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
