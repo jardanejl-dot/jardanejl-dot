@@ -20,7 +20,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 ---
 
-### <img width="30" height="35" alt="image" src=".github/workflows/settings-removebg-preview.png" /> Tools Monitoring and Automation
+### <img width="30" height="35" alt="image" src=".github/workflows/connection-removebg-preview.png" />  Tools Monitoring and Automation
 
 
 <p align="left">
