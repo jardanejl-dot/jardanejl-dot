@@ -28,6 +28,8 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 <img title="MikroTik" alt="MikroTik" width="32" src="https://cdn.simpleicons.org/mikrotik/FFFFFF" />&nbsp;
 <img title="n8n + Agentes de IA" alt="n8n" width="32" src="https://cdn.simpleicons.org/n8n/EF5A29" />&nbsp;
 <img title="Monitoramento NOC" alt="Monitor NOC" width="42" src=".github/workflows/monitor.png" />
+<img title="Json" alt="Monitor NOC" width="42" src=".github/workflows/json_filetype_icon_177531.png" />
+
 </p>
 
 ---
