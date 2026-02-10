@@ -20,7 +20,8 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 ---
 
-### ⚙️ Tools Monitoring and Automation 🔧
+### <img width="30" height="35" alt="image" src=".github/workflows/settings-removebg-preview.png" /> Tools Monitoring and Automation
+
 
 <p align="left">
 <img title="Zabbix" alt="Zabbix" width="32" src=".github/workflows/zb1.png" />&nbsp;
@@ -42,7 +43,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
   <img title="Yoga" width="40" src=".github/workflows/yoga-removebg-preview.png" />&nbsp;
   <img title="Pilates" width="40" src=".github/workflows/yoga__2_-removebg-preview.png" />&nbsp;
   <img title="Viagens" width="45" src=".github/workflows/travel__1_-removebg-preview.png" />&nbsp;
-  <img title="Música" width="45" src=".github/workflows/listening-removebg-preview.png" />&nbsp;
+  <img title="Música" width="40" src=".github/workflows/listening-removebg-preview.png" />&nbsp;
 
   
 </p>
@@ -60,6 +61,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 
 #
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
