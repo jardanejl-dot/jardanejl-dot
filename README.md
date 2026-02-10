@@ -38,7 +38,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 <p align="left">
   <img title="Investimentos" width="40" src=".github/workflows/invest.png" />&nbsp;
-  <img title="Yoga" width="35" src="https://api.iconify.design/noto:person-in-lotus-position.svg" />&nbsp;
+  <img title="Yoga" width="35" src=".github/workflows/meditation-removebg-preview.png" />&nbsp;
   <img title="Pilates" width="35" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f938.svg" />&nbsp;
 </p>
 
