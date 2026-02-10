@@ -35,7 +35,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 
 ---
 
-### <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/0c2f29b6-f962-4bbc-8b24-75cdeb3c22a4" /> Hobbies 
+### <img width="35" height="35" alt="image" src=".github/workflows/daily-routine-removebg-preview.png" /> Hobbies 
 
 <p align="left">
   <img title="Investimentos" width="40" src=".github/workflows/investment__1_-removebg-preview.png" />&nbsp;
