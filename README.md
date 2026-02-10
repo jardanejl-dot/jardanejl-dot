@@ -30,6 +30,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 <img title="Monitoramento NOC" alt="Monitor NOC" width="32" src=".github/workflows/monitor.png" />
 <img title="Json" alt="Json" width="30" src=".github/workflows/json (1).png" />
 
+
 </p>
 
 ---
@@ -41,6 +42,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
   <img title="Yoga" width="40" src=".github/workflows/yoga-removebg-preview.png" />&nbsp;
   <img title="Pilates" width="40" src=".github/workflows/yoga__2_-removebg-preview.png" />&nbsp;
   <img title="Viagens" width="45" src=".github/workflows/travel__1_-removebg-preview.png" />&nbsp;
+  <img title="Música" width="45" src=".github/workflows/listening-removebg-preview.png" />&nbsp;
 
   
 </p>
