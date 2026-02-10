@@ -1,4 +1,4 @@
-# 👩🏻‍💻Jardane Lima
+### Jardane Lima
 
 **`Analista de Sistemas | HelpDesk | Redes Telecomunicações | Triggers Zabbix | Dashboards Grafana | Mikrotik | NOC`**
 
