@@ -39,8 +39,8 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 <p align="left">
   <img title="Investimentos" width="40" src=".github/workflows/investment.png" />&nbsp;
   <img title="Yoga" width="40" src=".github/workflows/yoga-removebg-preview.png" />&nbsp;
-  <img title="Pilates" width="35" src=".github/workflows/yoga (1).png" />&nbsp;
-  <img title="Viagens" width="50" src=".github/workflows/travel-removebg-preview.png" />&nbsp;
+  <img title="Pilates" width="40" src=".github/workflows/yoga__2_-removebg-preview.png" />&nbsp;
+  <img title="Viagens" width="45" src=".github/workflows/travel-removebg-preview.png" />&nbsp;
 
   
 </p>
