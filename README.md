@@ -6,29 +6,11 @@ Profissional de Tecnologia da Informação, com experiência em Help Desk e Rede
 
 Minha trajetória integra competências técnicas e administrativas, com atuação em processos licitatórios, gestão de contratos e documentação técnica no contexto da administração pública. Atualmente, direciono meu desenvolvimento para tecnologias emergentes, com foco no estudo e aplicação de Agentes de IA e automação inteligente de processos, buscando soluções eficientes para ambientes dinâmicos e desafiadores. 
 
-<p align="left" style="display:flex; gap:6px;">
+<p align="left">
 
-<a href="https://www.instagram.com/jardane_lima/" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-rounded&logo=instagram&logoColor=white" style="display:block;">
-</a>
-
-<a href="mailto:contatojardane.jl@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Email-DB4437?style=flat-rounded&logo=gmail&logoColor=white" style="display:block;">
-</a>
-
-<a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-rounded&logo=linkedin&logoColor=white" style="display:block;">
-</a>
-
-<a href="https://github.com/jardanejl-dot?tab=followers" style="text-decoration:none;">
-  <img src="https://img.shields.io/github/followers/jardanejl-dot?label=Follow&style=flat-rounded&color=23A44F&labelColor=23A44F&logo=github&logoColor=white" style="display:block;">
-</a>
-
-<a href="https://github.com/jardanejl-dot" style="text-decoration:none;">
-  <img src="https://komarev.com/ghpvc/?username=jardanejl-dot&label=Profile%20Views&style=flat-rounded&color=D4A017&labelColor=D4A017" style="display:block;">
-</a>
-
+<a href="https://www.instagram.com/jardane_lima/" title="Me siga 🤩"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-rounded&logo=instagram&logoColor=white"></a>&ensp;<a href="mailto:contatojardane.jl@gmail.com" title="meu gmail 📧"><img src="https://img.shields.io/badge/Email-DB4437?style=flat-rounded&logo=gmail&logoColor=white"></a>&ensp;<a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" title="Me siga no LinkedIn 🚀"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-rounded&logo=linkedin&logoColor=white"></a>&ensp;<a href="https://github.com/jardanejl-dot?tab=followers" title="Me siga no GitHub 💞"><img src="https://img.shields.io/github/followers/jardanejl-dot?label=Follow&style=flat-rounded&color=23A44F&labelColor=23A44F&logo=github&logoColor=white"></a>&ensp;<a href="https://github.com/jardanejl-dot" title="Visualiza e me segue aí 👀😅"><img src="https://komarev.com/ghpvc/?username=jardanejl-dot&label=Profile%20Views&style=flat-rounded&color=D4A017&labelColor=D4A017"></a>
 </p>
+
 
 
 ---
