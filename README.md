@@ -9,23 +9,23 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 <p align="left">
 
 <a href="https://www.instagram.com/jardane_lima/" title="Me siga 🤩">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-rounded&logo=instagram&logoColor=white">
 </a>
 
 <a href="mailto:contatojardane.jl@gmail.com" title="meu gmail 📧">
-  <img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-DB4437?style=flat-rounded&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/jardane-lima-maciel-98247a216" title="Me siga no LinkedIn 🚀">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-rounded&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/jardanejl-dot?tab=followers" title="Me siga no GitHub 💞">
-  <img src="https://img.shields.io/github/followers/jardanejl-dot?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=23A44F&labelColor=23A44F">
+ <img src="https://img.shields.io/github/followers/jardanejl-dot?label=Follow&style=flat-rounded&color=23A44F&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/jardanejl-dot" title="Visualiza e me segue aí 👀😅">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-84-D4A017?style=for-the-badge&logo=github&logoColor=white&labelColor=D4A017">
+  <img src="https://komarev.com/ghpvc/?username=jardanejl-dot&label=Profile%20Views&style=flat-rounded&color=D4A017">
 </a>
 
 
