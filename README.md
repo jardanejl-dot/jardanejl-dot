@@ -37,7 +37,7 @@ Minha trajetória integra competências técnicas e administrativas, com atuaç�
 ### 💡Hobbies
 
 <p align="left">
-  <img title="Investimentos" width="40" src=".github/workflows/investment.png" />&nbsp;
+  <img title="Investimentos" width="40" src=".github/workflows/investment__1_-removebg-preview.png" />&nbsp;
   <img title="Yoga" width="40" src=".github/workflows/yoga-removebg-preview.png" />&nbsp;
   <img title="Pilates" width="40" src=".github/workflows/yoga__2_-removebg-preview.png" />&nbsp;
   <img title="Viagens" width="45" src=".github/workflows/travel-removebg-preview.png" />&nbsp;
