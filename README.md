@@ -46,7 +46,7 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
   <img title="Yoga" width="40" src=".github/workflows/yoga-removebg-preview.png" />&nbsp;
   <img title="Pilates" width="40" src=".github/workflows/yoga__2_-removebg-preview.png" />&nbsp;
   <img title="Viagens" width="45" src=".github/workflows/travel__1_-removebg-preview.png" />&nbsp;
-  <img title="Música" width="40" src=".github/workflows/listening-removebg-preview.png" />&nbsp;
+  <img title="Músicas" width="40" src=".github/workflows/listening-removebg-preview.png" />&nbsp;
 
   
 </p>
