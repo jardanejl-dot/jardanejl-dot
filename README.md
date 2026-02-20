@@ -33,7 +33,7 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
 <img title="MikroTik" alt="MikroTik" width="32" src="https://cdn.simpleicons.org/mikrotik/FFFFFF" />&nbsp;
 <img title="n8n + Agentes de IA" alt="n8n" width="32" src="https://cdn.simpleicons.org/n8n/EF5A29" />&nbsp;
 <img title="Monitoramento NOC" alt="Monitor NOC" width="32" src=".github/workflows/monitor.png" />
-<img title="Json" alt="Json" width="30" src=".github/workflows/json (1).png" />
+<img title="Json" alt="Sanitize Json" width="30" src=".github/workflows/json (1).png" />
 
 
 </p>
