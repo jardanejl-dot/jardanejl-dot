@@ -20,9 +20,7 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
 
 </p>
 
-
-
----
+#
 
 ### <img width="30" height="35" alt="image" src=".github/workflows/manufacturing-removebg-preview.png" /> Tools Monitoring and Automation
 
@@ -38,7 +36,7 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
 
 </p>
 
----
+#
 
 ### <img width="35" height="30" alt="image" src=".github/workflows/daily-routine-removebg-preview.png" /> Hobbies 
 
@@ -52,7 +50,7 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
   
 </p>
 
----
+#
 
 ### <img title="Em construção" width="35" src=".github/workflows/task-management-removebg-preview.png" /> Projetos Desenvolvidos 
 
