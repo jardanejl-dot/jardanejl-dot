@@ -56,7 +56,7 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
 
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/jardanejl-dot/grafana-dashboards)
 ![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![NOC](https://img.shields.io/badge/NOC_Monitoring-0A66C2?style=flat)
