@@ -55,11 +55,11 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
 ### <img title="Em construção" width="35" src=".github/workflows/task-management-removebg-preview.png" /> Projetos Desenvolvidos 
 
 
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+[![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white "Projeto em construção")](https://github.com/jardanejl-dot/grafana-dashboards)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/jardanejl-dot/grafana-dashboards)
-![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![NOC](https://img.shields.io/badge/NOC_Monitoring-0A66C2?style=flat)
+[![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white "Projeto em construção")](https://github.com/jardanejl-dot/grafana-dashboards)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white "Projeto em construção")](https://github.com/jardanejl-dot/grafana-dashboards)
+[![NOC](https://img.shields.io/badge/NOC_Monitoring-0A66C2?style=flat "Projeto em construção")](https://github.com/jardanejl-dot/grafana-dashboards)
 
 
 #
