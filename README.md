@@ -22,7 +22,7 @@ soluções eficientes para ambientes dinâmicos e desafiadores.**
 
 #
 
-### <img width="30" height="35" alt="image" src=".github/workflows/manufacturing-removebg-preview.png" /> Tools Monitoring and Automation
+### <img width="30" height="35" alt="image" src=".github/workflows/manufacturing-removebg-preview.png" /> My Tech Stack & Tools
 
 
 <p align="left">
