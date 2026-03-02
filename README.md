@@ -1,7 +1,7 @@
 ### Jardane Lima 
 
 
-B.el. em Sistemas de Informação, com experiência em Help Desk e Redes de Telecomunicações. Atuação no monitoramento proativo de ambientes tecnológicos utilizando Zabbix,
+B.el. em Sistemas de Informação, com experiência em Service Desk e Redes de Telecomunicações. Atuação no monitoramento proativo de ambientes tecnológicos utilizando Zabbix,
 Grafana e The Dude, além da configuração de ativos Mikrotik, visando estabilidade e alta disponibilidade operacional.
 
 Minha trajetória integra competências técnicas e administrativas, com atuação em processos licitatórios, gestão de contratos e documentação técnica no contexto da administração
