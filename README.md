@@ -7,7 +7,7 @@ Grafana e The Dude, além da configuração de ativos Mikrotik, visando estabili
 Minha trajetória integra competências técnicas e administrativas, com atuação em processos licitatórios, gestão de contratos e documentação técnica no contexto da administração
 pública. 
 Atualmente, direciono meu desenvolvimento para tecnologias emergentes, com foco no estudo e aplicação de Agentes de IA e automação inteligente de processos, buscando
-soluções eficientes para ambientes dinâmicos e desafiadores.** 
+soluções eficientes para ambientes dinâmicos e desafiadores.
 
 <p align="left">
 
